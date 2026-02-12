@@ -92,8 +92,6 @@ macos/Flutter/ephemeral/
 local.properties
 
 # Generated files
-lib/generated_plugin_registrant.dart
-lib/generated_plugin_registrant.dart
 
 # Misc
 coverage/
