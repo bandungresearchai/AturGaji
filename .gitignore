@@ -1,0 +1,102 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+flutter_*.png
+linked_*.png
+unlinked_*.png
+windows/flutter/generated_plugins.cmake
+windows/flutter/generated_plugins.cmake
+windows/flutter/generated_plugin_registrant.cc
+windows/flutter/generated_plugin_registrant.h
+windows/flutter/generated_plugins.cmake
+
+# iOS
+ios/.symlinks/
+ios/.generated/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/Flutter/app.flx
+ios/Flutter/app.zip
+ios/Flutter/flutter_assets/
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/local.properties
+ios/Flutter/Flutter.podspec
+ios/Flutter/.last_build_id
+ios/.last_build_id
+ios/Pods
+ios/Podfile.lock
+ios/Runner.xcworkspace
+
+# Android
+android/app/debug
+android/app/profile
+android/app/release
+android/.gradle
+android/build/
+android/captures/
+android/gradle-wrapper.jar
+android/gradlew
+android/gradlew.bat
+android/local.properties
+android/.gradle/
+android/app/local.properties
+.android/
+.gradle/
+
+# Web
+web/dart_service_worker.js
+
+# Desktop
+windows/.vs
+windows/runner/GeneratedPluginRegistrant.h
+windows/runner/GeneratedPluginRegistrant.cpp
+windows/flutter/generated_plugin_registrant.cc
+windows/flutter/generated_plugin_registrant.h
+
+# Linux
+linux/flutter/generated_plugins.cmake
+linux/flutter/generated_plugin_registrant.cc
+linux/flutter/generated_plugin_registrant.h
+
+# MacOS
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/Flutter/Flutter-Debug.xcconfig
+macos/Flutter/Flutter-Release.xcconfig
+macos/Flutter/Flutter-Profile.xcconfig
+macos/Flutter/ephemeral/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.sublime-project
+*.sublime-workspace
+*.iml
+*.lock
+
+# General
+*.log
+*.stackdump
+.DS_Store
+*~
+*.tmp
+local.properties
+
+# Generated files
+lib/generated_plugin_registrant.dart
+lib/generated_plugin_registrant.dart
+
+# Misc
+coverage/
+.coverage/
+*.lcov
+pubspec.lock
